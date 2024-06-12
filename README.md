@@ -1,0 +1,4 @@
+- diplay multiple accordion
+- toggle functionality
+- only one should open at time, rest should remain closed
+- react icons
